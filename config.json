@@ -1,0 +1,15 @@
+{
+  "connections":
+  {
+    "local irc":
+    {
+      "server": "irc.rizon.net",
+      "nick": "LaserBot",
+      "channels": ["#botcity"]
+    }
+  },
+  "prefix": ".",
+  "disabled_plugins": [],
+  "disabled_commands": [],
+  "acls": {},
+  "api_keys": {},
